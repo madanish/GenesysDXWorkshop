@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Genesys Workshop on Documentation for Hugo Learn Theme</title>
+    <title>Genesys DX: When, Why and How on Documentation for Hugo Learn Theme</title>
     <link>/</link>
-    <description>Recent content in Genesys Workshop on Documentation for Hugo Learn Theme</description>
+    <description>Recent content in Genesys DX: When, Why and How on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Lesson</title>
+      <title>Chat and Chat Bots</title>
       <link>/020-getting-started/10_first.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,25 @@
     </item>
     
     <item>
-      <title>Second Lesson</title>
+      <title>Email</title>
+      <link>/030-use-case-2/10_first.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-use-case-2/10_first.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMS</title>
+      <link>/040-use-case-2-copy/10_first.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-use-case-2-copy/10_first.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
       <link>/020-getting-started/20_second.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -28,6 +46,24 @@
   Step two
   Step three
   </description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/030-use-case-2/20_second.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-use-case-2/20_second.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/040-use-case-2-copy/20_second.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-use-case-2-copy/20_second.html</guid>
+      <description></description>
     </item>
     
   </channel>

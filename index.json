@@ -1,38 +1,80 @@
 [
 {
 	"uri": "/",
-	"title": "Genesys Workshop",
+	"title": "Genesys DX: When, Why and How",
 	"tags": [],
 	"description": "",
-	"content": "Genesys Workshop Welcome In this workshop you will learn to apply your foundational knowledge of Genesys and master example use cases that demonstrate Experience as a Service.\nLearning Objectives  Setup and configure your environment. Creating users and groups. Configure security.  "
+	"content": "Genesys Workshop Welcome In this workshop we will discuss Genesys DX, what it is used for and how your customers could realize the true digital value. Genesys DX enables the ability to Create personalized experiences at scale, with a single solution that brings the best of artificial intelligence (AI) chatbots and human support together.\nLets Take this use case below as to how Genesys DX would become a true value add for your customers:\nACME corporation would like the ability to engage with customers, answer questions and enable self service without the need for telephony. In this instance, they are primarily interested in Digital channels such as email, SMS and chat. The Genesys DX product offering would enable ACME corporation to engage with their customer digitally, gain insights to their actitity and create dynamic reports on their interactions.\nNow that we understand the type of customer who would benefit from Genesys DX, we can walk through the different compnents of Genesys DX use cases and configurations to enable a modern digital channel experience\nLearning Objectives  Use Case 1: Chat and Chat Bots Use Case 2: Email Use Case 3: SMS  "
 },
 {
 	"uri": "/020-getting-started/10_first.html",
-	"title": "First Lesson",
+	"title": "Chat and Chat Bots",
 	"tags": [],
 	"description": "",
 	"content": "Configure Workshop   Step one\n  Step two\n  Step three\n  "
 },
 {
-	"uri": "/010-introduction.html",
-	"title": "Introduction",
+	"uri": "/030-use-case-2/10_first.html",
+	"title": "Email",
 	"tags": [],
 	"description": "",
-	"content": "Genesys Workshop Series Introduction Welcome In this workshop, you will learn\u0026hellip;\n This workshop is focused on things one, two and three.\n Learning Objectives  Master this Configure that Integrate this  "
+	"content": ""
 },
 {
-	"uri": "/020-getting-started.html",
-	"title": "Getting Started",
+	"uri": "/040-use-case-2-copy/10_first.html",
+	"title": "SMS",
 	"tags": [],
 	"description": "",
-	"content": "Getting Started  First Lesson   Second Lesson   "
+	"content": ""
+},
+{
+	"uri": "/010-introduction.html",
+	"title": "What is Genesys DX",
+	"tags": [],
+	"description": "",
+	"content": "What is Genesys DX Introduction to DX Types of Channels Genesys DX optomizes and streamlines the ability to engage with customers or employees through digital channels such as email, SMS, and chat utilizing NLP and conversational AI (Artificial Intelligence) to provide a modern and effecient experience.\nGenesys DX provides value by: Bot and Service rep harmony\n Genesys DX bots aren’t just on the front lines helping customers find answers, place orders and fix problems 24/7 with a smile. They’re also working overtime behind the scenes advising service reps for better customer outcomes.  Conversational and Proactive AI\n It’s hard to decipher the reality from the hype around chatbots. There are demos galore of so-called conversational bots, but replicating those for your business typically requires a whole lot of data scientists and scripted responses. No thanks. Our bots are built for conversions from day one.  Knowledge and Insights\n The Genesys DX solution locks nothing away. Insights that are fueled by actual customer experiences are presented in real time, so you can take immediate action. And you don’t have to front-load your knowledge base with anticipated content. Genesys DX listens to customers to help you exceed their expectations.  Focus areas of DX are:  AI Chatbots Proactive AI Conversational AI Chat \u0026amp; Messaging Proactive chat Omnichannel engagement  "
 },
 {
 	"uri": "/020-getting-started/20_second.html",
-	"title": "Second Lesson",
+	"title": "Configuration",
 	"tags": [],
 	"description": "",
 	"content": "Advanced Lesson   Step one\n  Step two\n  Step three\n  "
+},
+{
+	"uri": "/030-use-case-2/20_second.html",
+	"title": "Configuration",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/040-use-case-2-copy/20_second.html",
+	"title": "Configuration",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/020-getting-started.html",
+	"title": "Use Case 1",
+	"tags": [],
+	"description": "",
+	"content": "Getting Started  Chat and Chat Bots   Configuration   "
+},
+{
+	"uri": "/030-use-case-2.html",
+	"title": "Use Case 2",
+	"tags": [],
+	"description": "",
+	"content": "Getting Started  Email   Configuration   "
+},
+{
+	"uri": "/040-use-case-2-copy.html",
+	"title": "Use Case 3",
+	"tags": [],
+	"description": "",
+	"content": "Getting Started  SMS   Configuration   "
 },
 {
 	"uri": "/090-conclution.html",
